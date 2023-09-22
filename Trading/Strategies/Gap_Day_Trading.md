@@ -21,6 +21,7 @@
 - day of week
 - size of stop loss
 - market capitalization
+- number of other gaps on the same day
 
 ## Opening Gap Down
 
