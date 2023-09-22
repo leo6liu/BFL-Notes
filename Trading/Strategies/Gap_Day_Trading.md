@@ -20,6 +20,7 @@
 - one month trend
 - day of week
 - size of stop loss
+- market capitalization
 
 ## Opening Gap Down
 
