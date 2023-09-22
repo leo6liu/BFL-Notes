@@ -15,6 +15,7 @@
 - RVOL
 - Volume
 - implied volatility (IV)
+- previous day trend
 - five day trend
 - one month trend
 - day of week
