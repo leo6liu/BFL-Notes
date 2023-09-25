@@ -12,7 +12,8 @@
 - size of gap
 - speed of fill
 - trigger on trade price or bar close
-- RVOL
+- RVOL @ open
+- RVOL @ fill
 - Volume
 - implied volatility (IV)
 - previous day trend
@@ -22,6 +23,7 @@
 - size of stop loss
 - market capitalization
 - number of other gaps on the same day
+- market sector
 
 ## Opening Gap Down
 
