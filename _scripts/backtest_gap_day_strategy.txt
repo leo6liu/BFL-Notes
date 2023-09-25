@@ -1,0 +1,16 @@
+--------------------------------------------------
+Gap-up Results
+--------------------------------------------------
+
+Percentage profitable   = 47.85%
+Average profit at close = -0.00%
+Average max profit      = 01.10%
+
+
+--------------------------------------------------
+Gap-down Results
+--------------------------------------------------
+
+Percentage profitable   = 52.06%
+Average profit at close = 00.03%
+Average max profit      = 01.18%
